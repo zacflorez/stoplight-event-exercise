@@ -5,5 +5,5 @@
   var controlButton = document.getElementsById('controls')
   console.log(controlButton[0])
 
- var controlButton = document.getElementsByClassName('className')
+var controlButton = document.getElementsByClassName('className')
 })();
